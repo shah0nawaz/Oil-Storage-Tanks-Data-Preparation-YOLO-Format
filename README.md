@@ -43,6 +43,8 @@ python plot_to_check.py
 
 ## Overlapping crops of the image
 ![alt text](https://github.com/shah0nawaz/Oil-Storage-Tanks-Data-Preparation-YOLO-Format/blob/main/plots/Drawing1.png)
+
+
 ## Overlapping crops with labels
 ![alt text](https://github.com/shah0nawaz/Oil-Storage-Tanks-Data-Preparation-YOLO-Format/blob/main/plots/Drawing2.png)
 

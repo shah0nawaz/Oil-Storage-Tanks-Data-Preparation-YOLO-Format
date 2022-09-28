@@ -4,7 +4,7 @@
 Object detection algorithms can not input large dimenssions satellite images during training and testing. In order to prepare the satellite imagery for object detection algorithms, it is needed to crop the images into small patches according the requirments of the algorithm. This repository will help you to crop the images as well annotations according to the algorithm requirments.
 
 
-# Above Dataset
+# About Dataset
 Aboveground Petroleum, Oil and Lubricant (POL) storage areas are common in the manufacturing industry and government facilities. It is also a critical infrastructure for transportation (vehicles, ships and aircrafts) and industry (refineries, power stations, manufacturing). Deep Learning can be used to detect automatically the number, size and type of POL storage present on a site. This can help monitoring the state of aboveground fuel storage tanks including the prevention of spills, overfills, and corrosion.
 
 

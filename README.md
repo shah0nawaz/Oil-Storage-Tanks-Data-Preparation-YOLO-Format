@@ -35,6 +35,7 @@ A folder named extras contains 5 extra images which are not annotated but could 
 python plot_to_check.py
 ```
 
+
 # Original Image
 ![alt text](https://github.com/shah0nawaz/Oil-Storage-Tanks-Data-Preparation-YOLO-Format/blob/main/plots/1cdf51ee-e753-437f-b22f-7fcd7e9e2bfe.jpg)
 # Original Image with labels
